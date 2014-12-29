@@ -1,0 +1,115 @@
+	 _____________________________________________________________
+	|_|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|
+	|__@@__@@___|___|___|___|@@@@@@_|___|___|___|___|___@@__|___|_|
+	|_|@@_|@@_@@__|___|___|__@@@@@@___|___|___|___|___|_@@|___|___|
+	|__@@__@@___|___|___|___|__@@___|___|___|___|___|___@@__|___|_|
+	|_|@@@@@__|___|___|___|___|@@_|___|___|___|___|___|@@@@___|___|
+	|__@@@@@|_@@|@@@@@@_@@@@@@_@@_@@@@@@|@@@@@@@|_@@@@__@@_@@@@@@_|
+	|_|@@_|@@_@@_@@__@@_@@|___|@@_@@__@@_@@_@_@@_@@__@@_@@|@@_|@@_|
+	|__@@__@@_@@|@@_|@@_@@__@@_@@_@@|_@@|@@_|_@@|@@_|@@_@@_@@__@@_|
+	|_|@@_|@@_@@_@@__@@_@@@@@@|@@_@@@@@@_@@___@@__@@@@@_@@|@@@@@@_|
+	|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|_|
+				  Script v2.3
+			P a i n t B a l l   S t y l e
+
+---------------------------------------------------------------------------------
+|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|
+
+Versions:
+
+	06-09-04 - 2.3 ( More Stuff )
+		- Added new event
+
+			eventTime
+
+		- Fixed (again) the prefs file not applying settings when you
+		  change them in KingPrefs.skip.cs (Thanks Villman)
+		- Added red force fields to pack
+		- Added NewOpts page into the config section fo tribes. Now you
+		  can change settings from within tribes. Note that some settings
+		  require a restart of tribes to take effect.
+		- Updated vote hud to work with canceled votes on Paintball v2.6.x
+		  (My mod)
+		- Updated Acronyms List. Added tk, sk, hm, kt, and kt.org
+		- Included paintball scripts
+
+			Counter
+			Counter HUD
+			Kill Counter
+			Kill Mission Area
+
+		  Please see each file seperatly (in paintball folder) for settings
+		  and information.
+		- Forgot eventTime event. Added to events list.
+		- With recent update to 1.14b, and the ability to use a timestamp,
+		  times hud has been added.
+		- Removed non-paintball scripts and HUDs. Should improve performance,
+		  and hog less of your screen.
+		- Changed acronyms a little. Add your favorites to the bottom of the
+		  Acronyms.sys.cs file now, and they will be automatically added.
+
+	02-13-04 - 2.2 ( Added Features )
+
+		- Added !acronym command to control different features of the
+		  replacer.
+
+			!acronym <on/off/style> [new_style]
+
+		- Fixed Pilot mode not enabling
+		- Added a few new events that can trigger scripts
+
+			eventBottomPrint
+			eventModInfo
+			eventVote
+			eventNewMenu
+			eventAddMenuItem
+			eventInfoLine
+
+		- Added nude panels (off by default; see KingPrefs file)
+		- Added no enter inventory setting to my config
+		- Added $Script::MinVersion variable to script files.
+		  When present in a file being loaded, the minimum version
+		  is compared to the current. If the check fails, a warning
+		  is displayed on screen in the console.
+		- Fixed bug with friends list. Taking a user off list
+		  wouldn't actually remove them.
+
+	01-23-04 - 2.1 ( Added Features )
+
+		- Fixed how the script ignores changed to the KingPrefs.skip.cs file
+		  after the initial installation. Changes in the Prefs file should
+		  now immediatly take effect.
+		- Fixed VoteHUD in that it wouldn't catch vote cancellations in some
+		  instances.
+		- Fixed a bug in the protection system
+		- Added Quotes System (Official Release), type !quote in game
+		- Added a little thing to have it type in the SAD for a server
+		  when you add it to the AutoSAD Script. (Thanks Dark)
+		- Fixed AutoSAD
+		- Added it so that when you set your sad password for a server,
+		  you also login.
+		- Added Friends List (Read README.TXT for more info)
+
+	01-17-04 - 2.01 ( Minor Bug Fixes, New Features )
+
+		- Fixed the inability to move the Vote HUD.
+		- Fixed a problem with the DuelHud daving to three different
+		  files, and also saving mass amounts of information. Please
+		  delete the files DuelCount.cs, King_King_DuelCount.cs and
+		  King_DuelCount.cs files in your config directory if they exist.
+		- Added the ability to turn off and change the acronyms. I have
+		  plans to change how acronyms are added and removed, but have
+		  not gotten to it yet. I should have it done by the next release.
+		- Added a toggle for the console logging. Logging is disabled by
+		  default now, but may have already caused some large logs.
+
+	01-10-04 - 2.0 ( Script Release Date )
+
+		- Send all bugs and suggestions to me, my contacts are
+		  listed at the bottom.
+
+---------------------------------------------------------------------------------
+|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|
+KingTomato								      '04
+			   http://www.kingtomato.org
+		Mail: KingTomato2002@Yahoo.com - AIM: otamoTgniK
