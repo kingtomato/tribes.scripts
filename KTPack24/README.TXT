@@ -56,7 +56,7 @@ Installation:
 Seeing how it was so damn hard before for people to install this pack, here are
 (what I see to be) better instructions.
 
-http://www.kingtomato.org/install/
+http://www.kingtomato.org/install/ ([Mirror](../INSTALL))
 
 ---------------------------------------------------------------------------------
 |___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|
