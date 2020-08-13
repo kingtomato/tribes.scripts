@@ -1,4 +1,3 @@
-```
 	 _____________________________________________________________
 	|_|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|
 	|__@@__@@___|___|___|___|@@@@@@_|___|___|___|___|___@@__|___|_|
@@ -12,12 +11,6 @@
 	|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|_|
 				  Script v2.3
 			P a i n t B a l l   S t y l e
-```
-
-```
----------------------------------------------------------------------------------
-|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|
-```
 
 Warning:
 --------
@@ -27,11 +20,6 @@ this pack. I can not be held responsible for the result of any damage done by
 this pack, or any supported ones. Though all scripts have been tested, varied
 hardware and software configurations may play a part in installation.  Please, if
 you feel it may be unsafe to run my script, don't.
-
-```
----------------------------------------------------------------------------------
-|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|
-```
 
 Summary:
 --------
@@ -56,11 +44,6 @@ executed automatically.  Should you want a script not to execute, please prefix
 the extension with ".skip". For example, if I wanted the file myscript.cs to be
 excluded, I could rename it to myscript.skip.cs
 
-```
----------------------------------------------------------------------------------
-|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|
-```
-
 Installation:
 -------------
 
@@ -68,11 +51,6 @@ Seeing how it was so damn hard before for peopel to install this pack, here are
 (what I see to be) better instructions.
 
 http://www.kingtomato.org/install/ ([Mirror](../INSTALL))
-
-```
----------------------------------------------------------------------------------
-|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|
-```
 
 Trouble Shooting:
 -----------------
@@ -89,11 +67,6 @@ describe the problem in the console.
 If an addon someone gave you doesn't run please make sure that you have the file
 in the KingTomato folder. Next, run tribes and open the console (~). There may be
 a version failure. If so, a notice will be displayed.
-
-```
----------------------------------------------------------------------------------
-|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|
-```
 
 Some Commands:
 --------------
@@ -146,11 +119,6 @@ and others not.  These basic commands are as follows:
 		may not work.  Porn server (like many others) has limited the chat
 		message limit to something like 95 characters.  This is also the
 		reason for varied X-Pack and 5150 pack messages being limited.
-		
-```
----------------------------------------------------------------------------------
-|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|
-```
 
 Scriptors:
 ----------
@@ -159,21 +127,11 @@ If you have found a better way of doing things, or have a script that is
 supported very well by my pack, please send it to me. I'd be more than willing to
 include it with my next release.
 
-```
----------------------------------------------------------------------------------
-|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|
-```
-
 Feature Suggestions:
 --------------------
 
 If you have a script idea you want made, let me know. If its fairly simple or
 useful, I might add it to the script pack also.
-
-```
----------------------------------------------------------------------------------
-|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|
-```
 
 Bugs or Flaws:
 --------------
@@ -181,11 +139,6 @@ Bugs or Flaws:
 Should you find a bug or flaw in this script, please report it to me imediatly.
 I will do my best to remove any and all bugs in this script, and make it as smooth
 running as possible.
-
-```
----------------------------------------------------------------------------------
-|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|
-```
 
 Shouts:
 -------
