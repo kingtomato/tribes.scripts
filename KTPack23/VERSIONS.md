@@ -12,10 +12,8 @@
 				  Script v2.3
 			P a i n t B a l l   S t y l e
 
----------------------------------------------------------------------------------
-|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|
-
 Versions:
+---------
 
 	06-09-04 - 2.3 ( More Stuff )
 		- Added new event
@@ -108,8 +106,8 @@ Versions:
 		- Send all bugs and suggestions to me, my contacts are
 		  listed at the bottom.
 
+```
 ---------------------------------------------------------------------------------
 |___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|
 KingTomato								      '04
-			   http://www.kingtomato.org
-		Mail: KingTomato2002@Yahoo.com - AIM: otamoTgniK
+```
