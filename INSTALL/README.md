@@ -24,7 +24,7 @@ First thing you are going to need to do is install Presto. To do this, extract t
 
 Now that we have the files, lets get down to business. Open a new folder to your tribes config directory (C:\Dynamix\Tribes\Config). Now go back to your presto window, and you should see two things, readme and a folder named presto. Select the presto folder, then right click on it, and select copy. Now, go back to tribes config folder, and choose paste from the edit menu at the top. You should now have something like this:
 
-[!sshot_01.png](./sshot_01.png)
+![sshot_01.png](./sshot_01.png)
 
 Okay, now open the presto folder you just copied, and locate the autoexec.cs file. Right click on it, and select copy, then go back to config directory and choose paste once more from the edit menu at the top. Congratulations, you now have the Presto Pack installed!
 
@@ -43,7 +43,7 @@ Include("autoload.cs");
 
 Your file should now look like this:
 
-[!sshot_02.png](./sshot_02.png)
+![sshot_02.png](./sshot_02.png)
 
 Viola! Now you have both the Presto Pack and NewOpts installed. That wasn't so hard, was it?
 
@@ -53,7 +53,7 @@ Now comes the part you are actually trying to accomplish, the KingTomato pack. B
 
 Now that you have the pack, let's continue. Open the pack again just as you have done Presto and NewOpts. unzip it to a folder. Now before we touch this, open your config folder up. Now that you have Presto and NewOpts, it should look something like this:
 
-[!sshot_03.png](./sshot_03.png)
+![sshot_03.png](./sshot_03.png)
 
 Now what you do it make a new folder called KingTomato. To do this, go to the file menu, and select New >> Folder. Now, rename that folder to KingTomato (cAsE SenNStiVe; kingtomato isn't the same as KingTomato). Now open that folder, and it should be nice and clean.
 
